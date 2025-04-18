@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Achintha Gamage</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akgamage&label=Profile%20Views&color=b40e0e&style=plastic" alt="akgamage" /> </p>
 
 - 👨‍💻 Full-stack Developer at [Known Solutions](https://www.knownlk.com), currently honing my skills in web development.
 
