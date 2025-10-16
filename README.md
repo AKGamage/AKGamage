@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/AchinthaGamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sample" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/15rceBLZZi/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sample" height="30" width="40" /></a>
-<a href="https://www.instagram.com/achintha_kaushika?igsh=cWRjZzFmM3pxcW5p&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sample" height="30" width="40" /></a>
 </p>
 
 
