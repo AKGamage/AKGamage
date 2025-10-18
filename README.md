@@ -1,6 +1,6 @@
 ![AKGamage Banner Image](./assets/banner.png)
 
-#
+---
 
 <div>
   <img align="right" width="40%" src="./assets/side-image.png">
