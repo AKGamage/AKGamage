@@ -70,4 +70,6 @@ I aim to broaden my expertise in these areas and use my knowledge to tackle real
   </a>
 </p>
 
- 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=AKGamage&label=Profile%20Views&color=fe7208&labelColor=e63500&style=for-the-badge&logo=github&logoColor=ffffff" alt="AKGamage" />
+</p> 
