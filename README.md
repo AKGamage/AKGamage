@@ -31,6 +31,9 @@ I aim to broaden my expertise in these areas and use my knowledge to tackle real
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,angular,mysql,php,postman,wordpress,arduino&perline=15" alt="My Skills" />
 </a>
 
+<br>
+<br>
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=AKGamage&label=Profile%20Views&color=d43e0e&labelColor=e63500&style=for-the-badge&logo=github&logoColor=ffffff" alt="AKGamage" />
 </p> 
