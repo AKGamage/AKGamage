@@ -28,7 +28,7 @@ I aim to broaden my expertise in these areas and use my knowledge to tackle real
 
 ### 🛠 Languages and Tools
 <a href="https://github.com/AKGamage">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,angular,mysql,php,postman,wordpress,arduino&perline=15" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,angular,mysql,php,postman,react,wordpress,arduino&perline=15" alt="My Skills" />
 </a>
 
 <br>
