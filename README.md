@@ -22,12 +22,14 @@ I aim to broaden my expertise in these areas and use my knowledge to tackle real
 ---
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AchinthaGamage)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/achintha.k.gamage)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/achintha_kaushika)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/achinthakgamage)
 
----
+<p>
+  <a href="https://www.linkedin.com/in/AchinthaGamage"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%230077B5&width=40&height=40" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/achintha.k.gamage"><img src="https://api.iconify.design/mdi:facebook.svg?color=%231877F2&width=40&height=40" width="40" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/achintha_kaushika"><img src="https://api.iconify.design/mdi:instagram.svg?color=%23E4405F&width=40&height=40" width="40" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/achinthakgamage"><img src="https://api.iconify.design/ri:twitter-x-fill.svg?color=white&width=40&height=40" width="40" alt="X" /></a>
+</p>
+
 
 ### 🛠 Languages and Tools
 <a href="https://github.com/AKGamage">
