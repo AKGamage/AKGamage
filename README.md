@@ -22,7 +22,7 @@ I approach engineering as a practical discipline. I learn by building, and I app
 
 ### CONNECT WITH ME
 
-<p> <a href="https://www.linkedin.com/in/AchinthaGamage"><img src="./assets/social/linkedin.png" width="44" alt="LinkedIn" /></a>&nbsp; <a href="https://www.facebook.com/achintha.k.gamage"><img src="./assets/social/facebook.png" width="44" alt="Facebook" /></a>&nbsp; <a href="https://instagram.com/achintha_kaushika"><img src="./assets/social/instagram.png" width="44" alt="Instagram" /></a>&nbsp; <a href="https://x.com/achinthakgamage"><img src="./assets/social/x.png" width="44" alt="X" /></a> </p> <br/>
+<p> <a href="https://www.linkedin.com/in/AchinthaGamage"><img src="./assets/social/linkedin.png" width="44" alt="LinkedIn" /></a>&nbsp; <a href="https://www.facebook.com/achintha.k.gamage"><img src="./assets/social/facebook.png" width="44" alt="Facebook" /></a>&nbsp; <a href="https://instagram.com/achintha_kaushika"><img src="./assets/social/instagram.png" width="44" alt="Instagram" /></a>&nbsp; <a href="https://x.com/achinthakgamage"><img src="./assets/social/x.png" width="44" alt="X" /></a> </p>
 
 ---
 
