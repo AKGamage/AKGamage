@@ -6,38 +6,42 @@
   <img align="right" width="40%" src="./assets/side-image.png">
 </div>
 
-### 💡 About Me
-I am currently studying for a **Bachelor of Science (BSc) in Computer Engineering** at the **University of Peradeniya**. In addition to my engineering coursework, I have a deep interest in **AI, Data Science, Web Development, UI Design, and Robotics**.  
-
-I aim to broaden my expertise in these areas and use my knowledge to tackle real-world problems. Through continuous learning and practical projects, I aspire to contribute to **technological advancements and innovation** in engineering.
-
----
-
-### 👨‍💻 What I’m Doing
-- Web Developer at [Known Solutions](https://www.knownlk.com), currently honing my skills in web development.  
-- Passionate about **Robotics** and **AI**, with a growing interest in integrating these technologies into real-world applications.  
-- Currently studying **Java** and **C** to expand my technical foundation.  
-- Focused on **solving real-world problems** through technology and always learning to improve my craft.  
+### ABOUT ME
+I am currently studying for a **Bachelor of Science (BSc) in Computer Engineering** at the **University of Peradeniya**, with a particular focus on **AI, Data Science, Web Development, UI Design, and Robotics**.
+ 
+I approach engineering as a practical discipline. I learn by building, and I apply what I learn to solve real problems. My goal is to keep deepening my expertise across these areas and contribute meaningfully to **technological advancement and innovation**.
 
 ---
 
-### 🤝 Connect with Me
+### WHAT I'M DOING
+- Working as a **Web Developer** at [Known Solutions](https://www.knownlk.com), building production ready websites and refining my craft on real client work.
+- Exploring **Robotics** and **AI**, with a focus on practical, real world integration rather than theory alone.
+- Committed to continuous learning. Every project is an opportunity to solve something new and improve how I build.
 
-<p>
-  <a href="https://www.linkedin.com/in/AchinthaGamage"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%230077B5&width=40&height=40" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/achintha.k.gamage"><img src="https://api.iconify.design/mdi:facebook.svg?color=%231877F2&width=40&height=40" width="40" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/achintha_kaushika"><img src="https://api.iconify.design/mdi:instagram.svg?color=%23E4405F&width=40&height=40" width="40" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/achinthakgamage"><img src="https://api.iconify.design/ri:twitter-x-fill.svg?color=white&width=40&height=40" width="40" alt="X" /></a>
-</p>
+---
 
+### CONNECT WITH ME
 
-### 🛠 Languages and Tools
-<a href="https://github.com/AKGamage">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,angular,mysql,php,postman,react,wordpress,arduino,supabase&perline=15" alt="My Skills" />
-</a>
+<p> <a href="https://www.linkedin.com/in/AchinthaGamage"><img src="./assets/social/linkedin.png" width="44" alt="LinkedIn" /></a>&nbsp; <a href="https://www.facebook.com/achintha.k.gamage"><img src="./assets/social/facebook.png" width="44" alt="Facebook" /></a>&nbsp; <a href="https://instagram.com/achintha_kaushika"><img src="./assets/social/instagram.png" width="44" alt="Instagram" /></a>&nbsp; <a href="https://x.com/achinthakgamage"><img src="./assets/social/x.png" width="44" alt="X" /></a> </p> <br/>
 
-<br>
-<br>
+---
+
+### LANGUAGES AND TOOLS
+
+**Languages & Frontend**
+ 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,angular,nextjs&perline=8" alt="Languages & Frontend" />
+
+**Backend & Data**
+ 
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,supabase,wordpress&perline=8" alt="Backend & Data" />
+
+**Tools**
+ 
+<img src="https://skillicons.dev/icons?i=postman,arduino&perline=8" alt="Tools" />
+
+<br/>
+<br/>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=AKGamage&label=Profile%20Views&color=d43e0e&labelColor=e63500&style=for-the-badge&logo=github&logoColor=ffffff" alt="AKGamage" />
