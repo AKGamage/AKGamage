@@ -41,7 +41,6 @@ I approach engineering as a practical discipline. I learn by building, and I app
 <img src="https://skillicons.dev/icons?i=postman,arduino&perline=8" alt="Tools" />
 
 <br/>
-<br/>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=AKGamage&label=Profile%20Views&color=d43e0e&labelColor=e63500&style=for-the-badge&logo=github&logoColor=ffffff" alt="AKGamage" />
